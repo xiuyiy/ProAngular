@@ -16,10 +16,13 @@
                 .directive("unorderedList", function () {
                     return function (scope, element, attrs) {
                         var data = scope[attrs["unorderedList"]];
+                        var propertyExpression = attrs["listProperty"];
                         console.log(data);
                         if (angular.isArray(data)) {
+                            var listElem = angular.element("<ul>");
+                            element.append(listElem);
                             for (var i = 0; i < data.length; i++) {
-                                console.log("Item: " +data[i].name);
+                                listElem.append(angular.element('<li>').text(scope.$eval(propertyExpression, data[i])));
                             }
                         }
                     }
@@ -41,7 +44,7 @@
     </div>
 </div>
 <div class="panel-body">
-    <div unordered-list="products"></div>
+    <div unordered-list="products" list-property="price | currency"></div>
 </div>
 </body>
 </html>

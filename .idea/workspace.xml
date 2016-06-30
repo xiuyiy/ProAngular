@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d47d1b41-9529-4c51-99d5-ce159ae3182a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/custom directives/directives.html" afterPath="$PROJECT_DIR$/custom directives/List003.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ProAngular.iml" afterPath="$PROJECT_DIR$/.idea/ProAngular.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/custom directives/List004.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/custom directives/List003.html" afterPath="$PROJECT_DIR$/custom directives/List003.html" />
     </list>
     <ignored path="ProAngular.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="List003.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="List003.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/custom directives/List003.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+            <state relative-caret-position="285">
+              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List004.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/custom directives/List004.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="118" selection-start-line="24" selection-start-column="118" selection-end-line="24" selection-end-column="118" />
               <folding />
             </state>
           </provider>
@@ -54,6 +63,7 @@
         <option value="$PROJECT_DIR$/directives.html" />
         <option value="$PROJECT_DIR$/custom directives/directives.html" />
         <option value="$PROJECT_DIR$/custom directives/List003.html" />
+        <option value="$PROJECT_DIR$/custom directives/List004.html" />
       </list>
     </option>
   </component>
@@ -66,7 +76,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1920" />
-    <option name="height" value="987" />
+    <option name="height" value="985" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -130,6 +140,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/custom directives" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
@@ -189,15 +204,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1467234012499</updated>
-      <workItem from="1467234014002" duration="4114000" />
+      <workItem from="1467234014002" duration="5231000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4114000" />
+    <option name="totallyTimeSpent" value="5231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="987" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="985" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -236,8 +251,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/custom directives/List003.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="6" selection-start-line="39" selection-start-column="6" selection-end-line="39" selection-end-column="6" />
+        <state relative-caret-position="285">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom directives/List004.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="118" selection-start-line="24" selection-start-column="118" selection-end-line="24" selection-end-column="118" />
           <folding />
         </state>
       </provider>
